@@ -43,7 +43,7 @@ Pittsburgh, PA 15213 USA
 
 ### Teaching
 
-Spring 2022: [16-887: Robotic Caregivers and Intelligent Physical Collaboration]()  
+Spring 2022: [16-887: Robotic Caregivers and Intelligent Physical Collaboration](https://zackory.com/rc2022/)  
 Spring 2021: [BMED 4833/8813 - Robotic Caregivers](https://sites.gatech.edu/robotic-caregivers/2021-spring/)  
 Spring 2020: [BMED 4803/8813 - Robotic Caregivers](https://sites.gatech.edu/robotic-caregivers/2020-spring/)  
 
