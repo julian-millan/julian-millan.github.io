@@ -21,6 +21,9 @@ Note for Fall 2022 applicants: I will likely be looking for 1 to 2 graduate stud
 
 ### News
 
+  * Co-chair at ICRA 2022 session on Physical HRI
+  * Area Chair for CoRL 2022
+  * Associate Editor for RO-MAN 2022 
   * Invited talk at IROS 2021 workshop on [Proximity Perception in Robotics](https://www.proxelsandtaxels.org/en/)
   * Organizing an ICRA 2021 workshop [Learning for Caregiving Robots](https://sites.gatech.edu/learning-caregiving-icra2021/)
   * Invited talk at ICRA 2021 workshop on [Representing and Manipulating Deformable Objects](https://deformable-workshop.github.io/icra2021/)
@@ -43,6 +46,7 @@ Pittsburgh, PA 15213 USA
 
 ### Teaching
 
+Fall 2022: 16-741: Mechanics of Manipulation
 Spring 2022: [16-887: Robotic Caregivers and Intelligent Physical Collaboration](https://zackory.com/rc2022/)  
 Spring 2021: [BMED 4833/8813 - Robotic Caregivers](https://sites.gatech.edu/robotic-caregivers/2021-spring/)  
 Spring 2020: [BMED 4803/8813 - Robotic Caregivers](https://sites.gatech.edu/robotic-caregivers/2020-spring/)  
