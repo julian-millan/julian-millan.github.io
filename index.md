@@ -21,6 +21,7 @@ Note for Fall 2022 applicants: I will likely be looking for 1 to 2 graduate stud
 
 ### News
 
+  * Chair at IROS 2022 session on Art and Entertainment and Manipulation
   * Co-chair at ICRA 2022 session on Physical HRI
   * Area Chair for CoRL 2022
   * Associate Editor for RO-MAN 2022 
