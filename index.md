@@ -15,8 +15,6 @@ My research explores intelligent physical human-robot interaction, with applicat
 
 Previously, I received my PhD in Robotics at Georgia Tech advised by [Charlie Kemp](https://charliekemp.com).
 
-Note for Fall 2022 applicants: I will likely be looking for 1 to 2 graduate students.
-
 ---
 
 ### News
@@ -49,6 +47,7 @@ Pittsburgh, PA 15213 USA
 
 ### Teaching
 
+Spring 2023: [16-887: Robotic Caregivers and Intelligent Physical Collaboration](https://zackory.com/rc2023/)  
 Fall 2022: [16-741: Mechanics of Manipulation](https://zackory.com/16741-22/)  
 Spring 2022: [16-887: Robotic Caregivers and Intelligent Physical Collaboration](https://zackory.com/rc2022/)  
 Spring 2021: [BMED 4833/8813 - Robotic Caregivers](https://sites.gatech.edu/robotic-caregivers/2021-spring/)  
