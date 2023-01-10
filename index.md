@@ -19,6 +19,7 @@ Previously, I received my PhD in Robotics at Georgia Tech advised by [Charlie Ke
 
 ### News
 
+  * Organizing ICRA 2023 workshop on [Emerging paradigms for assistive robotic manipulation: from research labs to the real world](http://sirslab.diism.unisi.it/WorkshopManipulation/index.html)
   * Chair at IROS 2022 session on Art and Entertainment and Manipulation
   * Co-chair at ICRA 2022 session on Physical HRI
   * Area Chair for CoRL 2022
