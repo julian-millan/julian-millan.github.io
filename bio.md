@@ -18,3 +18,6 @@ Zackory's work spans physical human-robot interaction, healthcare robotics, robo
 Prior to joining CMU, Zackory received his PhD in Robotics from Georgia Tech with Prof. Charlie Kemp. 
 He also received an M.S. in Computer Science from Georgia Tech and B.S. in Computer Science at the University of Wisconsin--La Crosse.
 His work has won the Best Student Paper Award at ICORR 2019 and a Best Paper in Service Robotics finalist at ICRA 2019.
+
+## Photo for publication
+![Zackory Erickskon](assets/images/zackory_erickson.jpg)
