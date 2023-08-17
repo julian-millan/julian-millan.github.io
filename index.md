@@ -37,7 +37,7 @@ Previously, I received my PhD in Robotics at Georgia Tech advised by [Charlie Ke
 
 ### Contact
 
-**Email**: zackory@cmu.edu
+**Email**: [zackory@cmu.edu](mailto:zackory@cmu.edu)
 
 **Office**: [Newell-Simon Hall](https://map.concept3d.com/?id=192#!m/15786) 4627
 
