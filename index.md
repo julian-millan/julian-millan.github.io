@@ -20,6 +20,7 @@ Previously, I received my PhD in Robotics at Georgia Tech advised by [Charlie Ke
 ### News
 
   * Virtual Experience Chair for Conference on Robot Learning (CoRL) 2023
+  * Area Chair for CoRL 2023
   * Organizing RO-MAN 2023 special session on Human-Agent/Robot Interaction in Healthcare and Medicine
   * Organizing ICRA 2023 workshop on [Emerging paradigms for assistive robotic manipulation: from research labs to the real world](http://sirslab.diism.unisi.it/WorkshopManipulation/index.html)
   * Chair at IROS 2022 session on Art and Entertainment and Manipulation
@@ -35,8 +36,8 @@ Previously, I received my PhD in Robotics at Georgia Tech advised by [Charlie Ke
 ---
 
 ### Contact
-**Calendar**: [Free/busy Calendar](https://calendar.google.com/calendar/embed?src=zerickso%40andrew.cmu.edu&ctz=America%2FNew_York&mode=WEEK)  
-Please check my calendar to see if I am available prior to suggesting a meeting time.
+
+**Email**: zackory@cmu.edu
 
 **Office**: [Newell-Simon Hall](https://map.concept3d.com/?id=192#!m/15786) 4627
 
