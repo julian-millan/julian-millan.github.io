@@ -51,6 +51,7 @@ Pittsburgh, PA 15213 USA
 
 ### Teaching
 
+Fall 2023: [16-741: Mechanics of Manipulation](https://zackory.com/16741-23/)  
 Spring 2023: [16-887: Robotic Caregivers and Intelligent Physical Collaboration](https://zackory.com/rc2023/)  
 Fall 2022: [16-741: Mechanics of Manipulation](https://zackory.com/16741-22/)  
 Spring 2022: [16-887: Robotic Caregivers and Intelligent Physical Collaboration](https://zackory.com/rc2022/)  
