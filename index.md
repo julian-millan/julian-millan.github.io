@@ -19,6 +19,7 @@ Previously, I received my PhD in Robotics at Georgia Tech advised by [Charlie Ke
 
 ### News
 
+  * Organizing ICRA 2024 workshop on Exploring Role Allocation in Human-Robot Co-Manipulation
   * Virtual Experience Chair for Conference on Robot Learning (CoRL) 2023
   * Area Chair for CoRL 2023
   * Organizing RO-MAN 2023 special session on Human-Agent/Robot Interaction in Healthcare and Medicine
@@ -51,6 +52,7 @@ Pittsburgh, PA 15213 USA
 
 ### Teaching
 
+Spring 2024: [16-762: Mobile Manipulation](https://zackory.com/mm2024/)  
 Fall 2023: [16-741: Mechanics of Manipulation](https://zackory.com/16741-23/)  
 Spring 2023: [16-887: Robotic Caregivers and Intelligent Physical Collaboration](https://zackory.com/rc2023/)  
 Fall 2022: [16-741: Mechanics of Manipulation](https://zackory.com/16741-22/)  
