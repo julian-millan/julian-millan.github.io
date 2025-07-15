@@ -12,6 +12,8 @@ layout: page
 
 **I am looking for 1 PhD student to join our research group in Fall 2025**. If you are a recently admitted CMU PhD student, please email me! zackory@cmu.edu
 
+**We also have several open positions for MSR and Master's students starting Fall 2025**.
+
 I am a tenure-track Assistant Professor in [The Robotics Institute](https://www.ri.cmu.edu) at [Carnegie Mellon University](https://www.cmu.edu), where I lead the [Robotic Caregiving and Human Interaction (RCHI) Lab](https://rchi-lab.github.io).
 My research focuses on developing new robot learning, mobile manipulation, and sensing methods, with applications in physical human-robot interaction and healthcare.
 
