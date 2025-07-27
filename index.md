@@ -23,6 +23,7 @@ Previously, I received my PhD in Robotics at Georgia Tech advised by [Charlie Ke
 
 ### News
 
+  * Organizing IROS 2025 workshop on [RObotic MAnipulation of Deformable Objects (ROMADO 2025)](https://romado-workshop.github.io/ROMADO2025.github.io/)
   * Best Paper Nomination, [LAMS: LLM-Driven Automatic Mode Switching for Assistive Teleoperation](https://lams-assistance.github.io), at ACM/IEEE International Conference on Human-Robot Interaction (HRI), 2025
   * Best Paper Award, [Independence in the Home: A Wearable Interface for a Person with Quadriplegia to Teleoperate a Mobile Manipulator](https://sites.google.com/view/hat2-teleop/), at ACM/IEEE International Conference on Human-Robot Interaction (HRI), 2024
   * Organizing RSS 2024 workshop on [Learning for Assistive Robotics](https://sites.google.com/view/rss2024-assistive-robotics/home-page)
