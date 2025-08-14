@@ -60,6 +60,7 @@ Pittsburgh, PA 15213 USA
 
 ### Teaching
 
+Fall 2025: [16-741: Mechanics of Manipulation](https://zackory.com/16741-25/)  
 Spring 2025: [16-467: Human-Robot Interaction](https://zackory.com/16467-25/)  
 Fall 2024: [16-741: Mechanics of Manipulation](https://zackory.com/16741-24/)  
 Spring 2024: [16-762: Mobile Manipulation](https://zackory.com/mm2024/)  
