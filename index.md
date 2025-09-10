@@ -20,9 +20,9 @@ I previously graduated from the [California Institute of Technology (Caltech)](h
 
 **Email**: [julian.millan729@gmail.com](mailto:julian.millan729@gmail.com)
 
-**Linkedin**: [https://www.linkedin.com/in/julian-millan-782802257]
+**Linkedin**: https://www.linkedin.com/in/julian-millan-782802257
 
-**Github**: [https://github.com/julian-millan]
+**Github**: https://github.com/julian-millan
 
 ---
 
