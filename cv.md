@@ -4,4 +4,4 @@ title: CV
 permalink: /cv/
 ---
 
-<meta http-equiv="refresh" content="0; URL=/assets/millan-CV.pdf" />
+<a href="/assets/julian_millan_cv.pdf" class="btn" target="_blank">View My CV (PDF)</a>
