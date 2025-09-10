@@ -1,4 +1,4 @@
-title: Zackory Erickson
+title: Julian Millan
 author:
   name:
   email:
@@ -46,10 +46,10 @@ minima:
 
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
-header_pages:
- - publications.md
- - cv.md
- - bio.md
+# header_pages:
+#  - publications.md
+#  - cv.md
+#  - bio.md
 
 # Build settings
 theme: minima
