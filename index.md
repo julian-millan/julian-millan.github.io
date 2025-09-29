@@ -16,7 +16,7 @@ I previously graduated from the [California Institute of Technology (Caltech)](h
 
 ---
 
-### Contact
+## Contact
 
 **Email**: [julian.millan729@gmail.com](mailto:julian.millan729@gmail.com)
 
@@ -26,13 +26,13 @@ I previously graduated from the [California Institute of Technology (Caltech)](h
 
 ---
 
-### Research
+## Research
 
 ## Curent Master's Research
 My current research with the RCHI Lab focuses on bidirectional communication between assistive robots and their users. My focus is on improving the capability of assistive robots to navigate roadblocks they encounter in their tasks. 
 
-## Second SURF Project (June-August 2024) [Caltech]
-# Training a Biped to Walk with Behavior Cloning and Reinforcement Learning 
+### Second SURF Project (June-August 2024) [Caltech]
+### Training a Biped to Walk with Behavior Cloning and Reinforcement Learning 
 With Caltech's Autonomous Robotics and Controls Lab (ARCL) led by Professor Soon-Jo Chung 
 
 
