@@ -49,6 +49,7 @@ minima:
 header_pages:
  # - publications.md
  - cv.md
+ - portfolio.md
  # - bio.md
 
 # Build settings
