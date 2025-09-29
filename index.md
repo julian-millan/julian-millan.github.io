@@ -28,11 +28,12 @@ I previously graduated from the [California Institute of Technology (Caltech)](h
 
 ## Research
 
-## Curent Master's Research
+### Curent Master's Research (August 2025 - Present)
 My current research with the RCHI Lab focuses on bidirectional communication between assistive robots and their users. My focus is on improving the capability of assistive robots to navigate roadblocks they encounter in their tasks. 
 
-### Second SURF Project (June-August 2024) [Caltech]
-### Training a Biped to Walk with Behavior Cloning and Reinforcement Learning 
-With Caltech's Autonomous Robotics and Controls Lab (ARCL) led by Professor Soon-Jo Chung 
+### Training a Biped to Walk with Behavior Cloning and Reinforcement Learning (June - September 2024)
+I worked with Caltech Professor Soon-Jo Chung on researching how to use machine learning to control a bipedal robot's walking behavior in a novel direction. The novel direction chosen was to use behavior cloning on a capture-point inverse kinematics system and inverse dynamics system.
+
+The concepts primarily used in this project were types of Machine Learning (ML). I used Conservative Q-Learning (CQL), a form of Offline Reinforcement Learning (RL), and Behavior Cloning (BC) to attempt to create a bipedal walking algorithm for the robot. The simulation would run a little slow using the simple BC policy format, so I used a different policy saving format known as an "mlpfile" which both improved simulation speed and model performance. Further work included improving post-simulation data visualization, fixing the broken model training pipeline, collecting robust training data, reviewing and implementing CQL, and tuning/improving model parameters. The end result was a 20% improvement in model accuracy.
 
 
