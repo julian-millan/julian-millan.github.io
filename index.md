@@ -28,6 +28,11 @@ I previously graduated from the [California Institute of Technology (Caltech)](h
 
 ### Research
 
----
+## Curent Master's Research
+My current research with the RCHI Lab focuses on bidirectional communication between assistive robots and their users. My focus is on improving the capability of assistive robots to navigate roadblocks they encounter in their tasks. 
 
-### Extra links
+## Second SURF Project (June-August 2024) [Caltech]
+# Training a Biped to Walk with Behavior Cloning and Reinforcement Learning 
+With Caltech's Autonomous Robotics and Controls Lab (ARCL) led by Professor Soon-Jo Chung 
+
+
