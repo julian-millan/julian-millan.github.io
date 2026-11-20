@@ -61,7 +61,23 @@ Limitations: The world generation could handle a bit more robustness, as there's
 With more time, I would add stronger world generation and increase and vary the GPS interference. A video demonstration can be found [here](https://youtu.be/v9ArnxscL8A?si=ZjikmbmaAAM8VT9u).
 
 ### Caltech ME/CS/EE 169 Final Project (April - June 2024)
-This project involved designing a fully autonomous car capable of solving a known and unknown maze. I led both the robot fabrication and the design the full software stack. I utilized skills in SLAM, low level mobile robotics programming, collision avoidance and dynamic robotic planning. A project demonstration video can be found [here](https://youtu.be/JR84L-bYDIU).
+
+#### Introduction
+Robots that operate in unfamiliar spaces, such as warehouses, disaster sites, or homes, can’t rely on a pre-made map. Without one, a robot that misjudges an obstacle can damage property, injure people, or destroy itself. For my mobile robotics course, my partner and I had to build and program a robot that could navigate both a known and an unknown maze to find treasure. The objective was a robot that could build a map as it went, avoid collisions, recover from mistakes, and reach the treasure efficiently, which we tested in a course competition.
+
+#### My Role
+We were a team of two. I led the robot’s fabrication and designed the full software stack, including the high level motion planning, mid-level autonomous driving, and low level embeeded programming. My partner handled much of the RGB camera interfacing. I also made key design decisions in mounts used on the chassis for supporting the power banks and LIDAR.
+
+#### Design
+
+Hardware: I built the robot around Raspberry Pi 4, and I leveraged motor encoders, IMU/gyroscope, LIDAR, and a three-wheeled drivetrain.
+Mapping and localization: The robot used SLAM to build a map of the unknown maze while tracking its own position. In the known maze, it used a provided obstacle grid, wheel odometry, and a given initial position to localize itself.
+Planning and collision avoidance: I used Probabilistic Roadmapping to find paths to the treasure and to replan as new obstacles appeared in the map. Collision avoidance used a distance threshold trigger recovery behaviors, such as reversing and turning.
+Software: The code primarily used Python, using the pigpio library for embedded interfacing. We also heavily used ROS2 for simulation testing and combining complex behaviors into nodes.
+
+#### Results
+The team placed 3rd out of 9 teams in the course competition. The robot was able to traverse the known map with high accuracy, securing high points and completing the course within the time limit while avoiding obstacles. The unknown map provided challenges with finding the optimal treasure hunting path and avoiding getting obstacle stuck.
+A project demonstration video is linked [here](https://youtu.be/JR84L-bYDIU).
 
 ### Caltech ME/EE/CS 134 Final Project (January - March 2024) 
 This group project, we were given the task to design a 7-DOF arm for a complex task with recovery modes. I was the mechanical design lead and a key contributor to the programming of the recovery modes. As the mechanical lead, the design and fabrication was my primary responsibility, and I utilized skills in 3D printing, inverse kinematics, 3D CAD, machining, and beam bending analysis. 
