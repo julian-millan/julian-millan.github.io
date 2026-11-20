@@ -38,7 +38,7 @@ If I did the project again, I would spend more time examining mechanical points 
 This project taught me how to design hardware and embedded software together under real constraints, and how much a driver’s experience depends on small decisions in the code. 
 
 ### Caltech ME/CDS 234a Final Project (March 2025)
-
+![rescue_robotics](assets/images/rescue_robotics.png)
 #### Introduction
 When a disaster strikes, the first hours matter most for survivors, but collapsed structures, smoke, and unstable ground make those hours the most dangerous for human rescuers. Mobile robots can search these areas in their place, but only if they can navigate reliably without GPS (which is often degraded by dense buildings and interference) and move through cluttered interiors without human guidance. For my advanced robotics planning course, I completed a solo project to design and test a planner for a rescue robot in simulation. The objective was a planner that could carry a robot across an urban area with unreliable GPS and then search the inside of a building for survivors while avoiding obstacles.
 
