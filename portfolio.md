@@ -6,6 +6,8 @@ permalink: /portfolio/
 ## Academic and Professional Projects
 ### Caltech ME 72 Senior Design Capstone (September 2024 - March 2025) 
 
+![72_image](assets/images/72_capstone.png)
+
 #### Introduction
 
 Teleoperated robots let people work in places that are too dangerous, remote, or cramped to enter themselves, from disaster response to hazardous-material handling. Building them well takes more than a good chassis: the machine, its electronics, and its operator interface all have to work together under stress. For my Caltech Mechanical Engineering Senior Capstone, my team had six months to design and build three teleoperated robots that could compete in robot hockey in a magnetized arena. The goal was to build robots fast, durable, and powerful enough to win the puck and overpower opponents, while working within a strict budget and an industry-style process: Bills of Materials (BOMs), a Preliminary and Critical Design Review (PDR and CDR), demonstration deadlines, and a maintained engineering notebook.
