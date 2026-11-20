@@ -61,7 +61,7 @@ Limitations: The world generation could handle a bit more robustness, as there's
 With more time, I would add stronger world generation and increase and vary the GPS interference. A video demonstration can be found [here](https://youtu.be/v9ArnxscL8A?si=ZjikmbmaAAM8VT9u).
 
 ### Caltech ME/CS/EE 169 Final Project (April - June 2024)
-
+![169_ros2](assets/images/169_ros2.jpg)
 #### Introduction
 Robots that operate in unfamiliar spaces, such as warehouses, disaster sites, or homes, can’t rely on a pre-made map. Without one, a robot that misjudges an obstacle can damage property, injure people, or destroy itself. For my mobile robotics course, my partner and I had to build and program a robot that could navigate both a known and an unknown maze to find treasure. The objective was a robot that could build a map as it went, avoid collisions, recover from mistakes, and reach the treasure efficiently, which we tested in a course competition.
 
