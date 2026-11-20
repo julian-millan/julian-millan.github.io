@@ -10,7 +10,7 @@ layout: page
 
 ![Julian_Millan](assets/images/website_photo.jpg)
 
-I am a first year Master of Science in [Mechanical Engineering](https://www.meche.engineering.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/). I am currently doing research on Human-Robot Interaction in the [Robotics Institute](https://www.ri.cmu.edu/) with the [Robotic Caregiving and Human Interaction (RCHI) lab](https://rchi-lab.github.io/), focusing on assistive robotics and communication of robotic intent.
+I am a second year Master of Science in [Mechanical Engineering](https://www.meche.engineering.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/). I am currently doing research on Human-Robot Interaction in the [Robotics Institute](https://www.ri.cmu.edu/) with the [Robotic Caregiving and Human Interaction (RCHI) lab](https://rchi-lab.github.io/), focusing on assistive robotics and communication of robotic intent.
 
 I previously graduated from the [California Institute of Technology (Caltech)](https://www.caltech.edu/) with a Bachelor of Science in Mechanical Engineering. During my time at Caltech, I conducted Robotic Machine Learning research with the [Autonomous Robotics and Controls Lab (ARCL)](https://aerospacerobotics.caltech.edu/) and Robotic Hardware research with the [Advanced Mechanical Experimental Robotics (AMBER) Lab](http://www.bipedalrobotics.com/).
 
@@ -31,7 +31,7 @@ I previously graduated from the [California Institute of Technology (Caltech)](h
 ## Research
 
 ### Curent Master's Research (August 2025 - Present)
-My current research with the RCHI Lab focuses on bidirectional communication between assistive robots and their users. My focus is on improving the capability of assistive robots to navigate roadblocks they encounter in their tasks. 
+My research with the RCHI Lab has focused on utilizing VLMs for robotic use in assistive tasks. I have published work in [agentic simulation](https://arxiv.org/abs/2604.08664) and am currently examining robotic memory storage for VLM-based robotic manipulation.
 
 ### Training a Biped to Walk with Behavior Cloning and Reinforcement Learning (June - September 2024)
 I worked with Caltech Professor Soon-Jo Chung on researching how to use machine learning to control a bipedal robot's walking behavior in a novel direction. The novel direction chosen was to use behavior cloning on a capture-point inverse kinematics system and inverse dynamics system.
