@@ -86,7 +86,6 @@ A project demonstration video is linked [here](https://youtu.be/JR84L-bYDIU).
 ### Caltech ME/EE/CS 134 Final Project (January - March 2024) 
 
 #### Introduction
-
 Robot arms are increasingly asked to work alongside people in homes, factories, and hospitals, where other people behave unpredictably and a failed motion can mean a dropped object, a damaged part, or an injury. A useful arm must notice when something goes wrong and recover on its own. For my robotic systems course, my team of four designed and built a 7-DOF arm to play Carrom, a traditional Indian board game, against human competitors. The objective was an arm that could complete the task in normal play, and also recover gracefully when other players did something unexpected.
 
 #### My Role
@@ -95,12 +94,21 @@ I was the mechanical design lead and a key contributor to the programming of the
 #### Design
 Because the arm had to move quickly and recover from surprises, the mechanical design had to be stiff, light, and easy to control.
 
-Mechanical design and analysis: I designed the arm in [CAD software], using beam bending analysis to size the links so that deflection stayed under [X mm] at the [end effector / worst-case load]. This mattered because [reason, e.g., “deflection at the tip would break the inverse kinematics assumptions”].
-Fabrication: I made the arm using a mix of 3D printing and machining. I chose [process] for [parts] because [reason, e.g., speed, strength, or precision].
-Kinematics: I worked with the team’s inverse kinematics so that the arm’s geometry gave it [e.g., reach, dexterity, and avoidance of singularities in the workspace].
-Recovery modes: The arm detected [trigger, e.g., missed grasp, blocked path, opponent interference] and responded by [behavior]. I contributed [specific part of the code].
+Mechanical design and analysis: I designed the arm in SOLIDWORKS, using beam bending analysis to size the links so that at maximum arm reach, the shoulder motor could have enough torque to support its full horizontal length. This mattered because the robot must be able to reach as far as possible to suit a full size Carrom board, and be able to manipulate pieces at the far edge of the board.
 
-This led to a successful creation of the robot, that was able to interact with other game players and employ various recovery behaviors in both typical gameplay scenarios and scenarios involving unexpected behaviors from other players. The demo video can be found [here](https://youtu.be/ghnqkQhqNAI) and more details on the work done can be found in our <a href="/assets/ME134_Final_Report (1).pdf" class="btn" target="_blank">final report (PDF)</a>.
+Fabrication: I made the arm using a mix of 3D printing and machining. I chose [process] for [parts] because [reason, e.g., speed, strength, or precision].
+
+Kinematics: I designed the robot arm to ensure its kinematics would ensure full reach of the board's workspace.
+
+Recovery modes: There were multiple recovery modes considered, such as the case where the Carrom game board was considered "out of reach" for the robot. The manipulator would identify the board contour, then move the board back into its proper workspace before gameplay. Another recovery mode could detect "cheating": specifically in the case where a game piece was stolen out of its grasp and returned to the board. Our robot would detect this change, and recover by grabbing the game piece again.
+
+#### Evaluation
+The successful design of the robot allowed for success in both typical and out of distribution gameplay. The demo video can be found [here](https://youtu.be/ghnqkQhqNAI) and more details on the work done can be found in our <a href="/assets/ME134_Final_Report (1).pdf" class="btn" target="_blank">final report (PDF)</a>.
+
+One early limitation was the weakness in the lateral bending move, as panning motion from the lower shoulder motor results in swaying in an earlier arm design. Given more time, I would have made this design wider to resist swaying. However, I was able to redesign the arm with 3D printed standoffs to mitigate this swaying motion and maintain top pick and place precision.
+
+#### Conclusion
+This project taught me how mechanical design decisions shape what the software can do, and why a robot that is meant to work around people has to plan for failure from the start. This project taught me the importance of software, electronic, and mechanical collaboration on an extensive robotics project.
 
 ### Caltech ME/CS/EE 133b Final Project (March 2024) 
 This was a shorter (about three weeks long) project at the end of my undergraduate robotic planning class. I worked in a trio on testing various planning algorithms in a 2D maze. In particular, we tested conventional RRT and EST planning algorithms against modified RRT and EST planners adapted to go 90 degrees significantly more often than usual. A wrinkle we added was the existence of "locked doors", requiring our planner to acquire the right keys before proceeding.
