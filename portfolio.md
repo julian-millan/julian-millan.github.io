@@ -21,6 +21,7 @@ I was my team’s software and electronics lead and a key contributor to mechani
 Our robots had to apply high torque to push opponents while staying controllable and within budget, so I treated the electronics and software as a single system.
 
 Mechatronics: Our drivetrain needed high torque to overpower other robots, which forced a trade-off among budget, motor selection, and motor controllers. I selected 12V redline motors driven by 2x60A and 2x46A RoboClaw motor controllers, chosen because they could handle the current and heat the motors drew per robot. I assembled the electronics to withstand impact and shock using redundant adhesives, precise mounting, and designing solid carriages to hold our most important components.
+
 Software and controls: I wrote the driving code in C++ on an Arduino, with a remote interface that mapped controller inputs to driving and shooting. I designed it around three priorities: user-friendliness, speed, and fit with each driver’s preferences. I tuned the control mappings through user testing, using a mathematical function to point joystick direction to robot speed and direction.
 
 #### Evaluation
@@ -48,6 +49,7 @@ This was an individual project. I formulated the problem, designed the simulatio
 The task split naturally into two phases, each with its own challenge.
 
 Outdoor navigation with GPS interference: The robot traveled through a simulated urban area where GPS readings were corrupted by noise. I used a Kalman filter to give the robot a more reliable estimate of its position. I paired this with an A* and bug one planner to reach the building.
+
 Indoor search: Once inside, the robot needed to cover the space and find survivors without colliding with obstacles. Because indoor layouts are cluttered and the robot has to replan quickly, I used a Rapidly-exploring Random Tree (RRT), which finds feasible paths through obstacle-filled spaces efficiently.
 
 The full system was written in Python with the NumPy and Matplotlib libraries.
