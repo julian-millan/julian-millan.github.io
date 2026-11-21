@@ -96,7 +96,7 @@ Because the arm had to move quickly and recover from surprises, the mechanical d
 
 Mechanical design and analysis: I designed the arm in SOLIDWORKS, using beam bending analysis to size the links so that at maximum arm reach, the shoulder motor could have enough torque to support its full horizontal length. This mattered because the robot must be able to reach as far as possible to suit a full size Carrom board, and be able to manipulate pieces at the far edge of the board.
 
-Fabrication: I made the arm using a mix of 3D printing and machining. I chose [process] for [parts] because [reason, e.g., speed, strength, or precision].
+Fabrication: I made the arm using a mix of 3D printing and machining. I chose waterjet narrow aluminum links initially due to their strength against gravity while maintaining lightweight. I then used 3D printing for standoffs and making the shoulder mounts to due to its speed of fabrication and relative strength.
 
 Kinematics: I designed the robot arm to ensure its kinematics would ensure full reach of the board's workspace.
 
