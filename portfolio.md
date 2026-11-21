@@ -84,7 +84,7 @@ The team placed 3rd out of 9 teams in the course competition. The robot was able
 A project demonstration video is linked [here](https://youtu.be/JR84L-bYDIU).
 
 ### Caltech ME/EE/CS 134 Final Project (January - March 2024) 
-
+![134_arm](assets/images/134_arm.jpg)
 #### Introduction
 Robot arms are increasingly asked to work alongside people in homes, factories, and hospitals, where other people behave unpredictably and a failed motion can mean a dropped object, a damaged part, or an injury. A useful arm must notice when something goes wrong and recover on its own. For my robotic systems course, my team of four designed and built a 7-DOF arm to play Carrom, a traditional Indian board game, against human competitors. The objective was an arm that could complete the task in normal play, and also recover gracefully when other players did something unexpected.
 
